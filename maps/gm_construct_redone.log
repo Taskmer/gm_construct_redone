@@ -19981,3 +19981,771 @@ Level flags = 0
 Total triangle count: 40659
 Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
 1 minute, 35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2119854 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2831 texinfos to 1587
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1402 portalclusters
+3213 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 124121 visible clusters (13.20%)
+Total clusters visible: 940297
+Average clusters visible: 670
+Building PAS...
+Average clusters audible: 1202
+visdatasize:463911  compressed from 493504
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2121558 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2858 texinfos to 1597
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1403 portalclusters
+3215 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 124022 visible clusters (13.16%)
+Total clusters visible: 942349
+Average clusters visible: 671
+Building PAS...
+Average clusters audible: 1205
+visdatasize:464338  compressed from 493856
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2121558 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2862 texinfos to 1597
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1404 portalclusters
+3216 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 124219 visible clusters (13.16%)
+Total clusters visible: 943771
+Average clusters visible: 672
+Building PAS...
+Average clusters audible: 1205
+visdatasize:464748  compressed from 494208
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2121542 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2862 texinfos to 1597
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1380 portalclusters
+3160 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 127071 visible clusters (13.40%)
+Total clusters visible: 948109
+Average clusters visible: 687
+Building PAS...
+Average clusters audible: 1211
+visdatasize:444894  compressed from 485760
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (2121542 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2862 texinfos to 1597
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1380 portalclusters
+3160 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3299 visible clusters (0.89%)
+Total clusters visible: 370915
+Average clusters visible: 268
+Building PAS...
+Average clusters audible: 847
+visdatasize:377699  compressed from 485760
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+PREP OK
+13984 faces
+9 degenerate faces
+22285512 square feet [3209113600.00 square inches]
+21 Displacements
+6218454 Square Feet [895457408.00 Square Inches]
+13975 patches before subdivision
+156691 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+268 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29079662, max 2090
+transfer lists: 221.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(385957, 436543, 413821)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(134875, 141264, 121142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46909, 44388, 33624)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(18176, 16168, 11111)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(7038, 5775, 3516)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2826, 2177, 1193)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1145, 819, 398)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(469, 314, 137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(194, 121, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(80, 47, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(34, 18, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2184 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/4096          672/196608   ( 0.3%) 
+brushes               3238/16384       38856/196608   (19.8%) 
+brushsides           22517/163840     180136/1310720  (13.7%) 
+planes                5902/65536      118040/1310720  ( 9.0%) 
+vertexes             20738/65536      248856/786432   (31.6%) 
+nodes                 6643/65536      212576/2097152  (10.1%) 
+texinfos              1597/12288      114984/884736   (13.0%) 
+texdata                193/2048         6176/65536    ( 9.4%) 
+dispinfos               21/0            3696/0        ( 0.0%) 
+disp_verts            5237/0          104740/0        ( 0.0%) 
+disp_tris             9216/0           18432/0        ( 0.0%) 
+disp_lmsamples      764207/0          764207/0        ( 0.0%) 
+faces                13984/65536      783104/3670016  (21.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7671/65536      429576/3670016  (11.7%) 
+leaves                6658/65536      213056/2097152  (10.2%) 
+leaffaces            15374/65536       30748/131072   (23.5%) 
+leafbrushes           8257/65536       16514/131072   (12.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            99075/512000     396300/2048000  (19.4%) 
+edges                60856/256000     243424/1024000  (23.8%) 
+LDR worldlights        268/8192        23584/720896   ( 3.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1021/32768       10210/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22716/65536       45432/131072   (34.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    17159604/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      377699/16777216 ( 2.3%) 
+entdata               [variable]      186051/393216   (47.3%) 
+LDR ambient table     6658/65536       26632/262144   (10.2%) 
+HDR ambient table     6658/65536       26632/262144   (10.2%) 
+LDR leaf ambient     31205/65536      873740/1835008  (47.6%) 
+HDR leaf ambient      6658/65536      186424/1835008  (10.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18740    ( 0.0%) 
+pakfile               [variable]       63655/0        ( 0.0%) 
+physics               [variable]     2121542/4194304  (50.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40477
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+1 minute, 30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+PREP OK
+13984 faces
+9 degenerate faces
+22285512 square feet [3209113600.00 square inches]
+21 Displacements
+6218454 Square Feet [895457408.00 Square Inches]
+13975 patches before subdivision
+156691 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+268 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29079662, max 2090
+transfer lists: 221.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(393783, 449298, 429099)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(136737, 144451, 124949)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(46900, 44713, 34167)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(18103, 16242, 11278)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6963, 5763, 3545)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2788, 2169, 1202)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1125, 813, 400)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(460, 312, 137)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(190, 120, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(79, 46, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(33, 18, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.3620 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/4096          672/196608   ( 0.3%) 
+brushes               3238/16384       38856/196608   (19.8%) 
+brushsides           22517/163840     180136/1310720  (13.7%) 
+planes                5902/65536      118040/1310720  ( 9.0%) 
+vertexes             20738/65536      248856/786432   (31.6%) 
+nodes                 6643/65536      212576/2097152  (10.1%) 
+texinfos              1597/12288      114984/884736   (13.0%) 
+texdata                193/2048         6176/65536    ( 9.4%) 
+dispinfos               21/0            3696/0        ( 0.0%) 
+disp_verts            5237/0          104740/0        ( 0.0%) 
+disp_tris             9216/0           18432/0        ( 0.0%) 
+disp_lmsamples      764207/0          764207/0        ( 0.0%) 
+faces                13984/65536      783104/3670016  (21.3%) 
+hdr faces            13984/65536      783104/3670016  (21.3%) 
+origfaces             7671/65536      429576/3670016  (11.7%) 
+leaves                6658/65536      213056/2097152  (10.2%) 
+leaffaces            15374/65536       30748/131072   (23.5%) 
+leafbrushes           8257/65536       16514/131072   (12.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            99075/512000     396300/2048000  (19.4%) 
+edges                60856/256000     243424/1024000  (23.8%) 
+LDR worldlights        268/8192        23584/720896   ( 3.3%) 
+HDR worldlights        268/8192        23584/720896   ( 3.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1021/32768       10210/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22716/65536       45432/131072   (34.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    17159604/0        ( 0.0%) 
+HDR lightdata         [variable]    17159604/0        ( 0.0%) 
+visdata               [variable]      377699/16777216 ( 2.3%) 
+entdata               [variable]      186051/393216   (47.3%) 
+LDR ambient table     6658/65536       26632/262144   (10.2%) 
+HDR ambient table     6658/65536       26632/262144   (10.2%) 
+LDR leaf ambient     31205/65536      873740/1835008  (47.6%) 
+HDR leaf ambient     31399/65536      879172/1835008  (47.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18740    ( 0.0%) 
+pakfile               [variable]       63655/0        ( 0.0%) 
+physics               [variable]     2121542/4194304  (50.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40477
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+1 minute, 29 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_construct_redone/gm_construct/grass_13_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 336 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt...Building visibility clusters...
+done (0)
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+No such variable "$basetexture" for material "skybox/paintedrt"
+Can't load skybox file skybox/painted to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2121542 bytes)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (2068.00, -2488.00, 24.00)
+Static prop models/props_c17/light_industrialbell01_on.mdl outside the map (3084.00, -2488.00, 24.99)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2862 texinfos to 1597
+Reduced 223 texdatas to 193 (13535 bytes to 12144)
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+reading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.prt
+1380 portalclusters
+3160 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3296 visible clusters (0.89%)
+Total clusters visible: 370902
+Average clusters visible: 268
+Building PAS...
+Average clusters audible: 847
+visdatasize:377685  compressed from 485760
+writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+PREP OK
+13984 faces
+9 degenerate faces
+22285512 square feet [3209113600.00 square inches]
+21 Displacements
+6218454 Square Feet [895457408.00 Square Inches]
+13975 patches before subdivision
+156691 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+274 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29079662, max 2090
+transfer lists: 221.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(396869, 449876, 425766)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(139371, 146318, 125036)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(48799, 46329, 34901)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(18964, 16908, 11525)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(7371, 6060, 3652)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2966, 2286, 1237)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1204, 861, 413)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(494, 330, 142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(205, 127, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(85, 49, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(36, 19, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(15, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/4096          672/196608   ( 0.3%) 
+brushes               3238/16384       38856/196608   (19.8%) 
+brushsides           22517/163840     180136/1310720  (13.7%) 
+planes                5902/65536      118040/1310720  ( 9.0%) 
+vertexes             20738/65536      248856/786432   (31.6%) 
+nodes                 6643/65536      212576/2097152  (10.1%) 
+texinfos              1597/12288      114984/884736   (13.0%) 
+texdata                193/2048         6176/65536    ( 9.4%) 
+dispinfos               21/0            3696/0        ( 0.0%) 
+disp_verts            5237/0          104740/0        ( 0.0%) 
+disp_tris             9216/0           18432/0        ( 0.0%) 
+disp_lmsamples      764207/0          764207/0        ( 0.0%) 
+faces                13984/65536      783104/3670016  (21.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7671/65536      429576/3670016  (11.7%) 
+leaves                6658/65536      213056/2097152  (10.2%) 
+leaffaces            15374/65536       30748/131072   (23.5%) 
+leafbrushes           8257/65536       16514/131072   (12.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            99075/512000     396300/2048000  (19.4%) 
+edges                60856/256000     243424/1024000  (23.8%) 
+LDR worldlights        274/8192        24112/720896   ( 3.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1021/32768       10210/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22716/65536       45432/131072   (34.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    17159604/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      377685/16777216 ( 2.3%) 
+entdata               [variable]      188052/393216   (47.8%) 
+LDR ambient table     6658/65536       26632/262144   (10.2%) 
+HDR ambient table     6658/65536       26632/262144   (10.2%) 
+LDR leaf ambient     31207/65536      873796/1835008  (47.6%) 
+HDR leaf ambient      6658/65536      186424/1835008  (10.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18740    ( 0.0%) 
+pakfile               [variable]       63655/0        ( 0.0%) 
+physics               [variable]     2121542/4194304  (50.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40477
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+1 minute, 21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+PREP OK
+13984 faces
+9 degenerate faces
+22285512 square feet [3209113600.00 square inches]
+21 Displacements
+6218454 Square Feet [895457408.00 Square Inches]
+13975 patches before subdivision
+156691 patches after subdivision
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+274 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 29079662, max 2090
+transfer lists: 221.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(404710, 462642, 441050)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(141239, 149509, 128845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(48792, 46656, 35445)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(18892, 16983, 11693)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(7296, 6048, 3681)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2928, 2279, 1247)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1185, 856, 415)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(485, 328, 142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(201, 126, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(83, 49, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(35, 19, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(15, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.3153 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/4096          672/196608   ( 0.3%) 
+brushes               3238/16384       38856/196608   (19.8%) 
+brushsides           22517/163840     180136/1310720  (13.7%) 
+planes                5902/65536      118040/1310720  ( 9.0%) 
+vertexes             20738/65536      248856/786432   (31.6%) 
+nodes                 6643/65536      212576/2097152  (10.1%) 
+texinfos              1597/12288      114984/884736   (13.0%) 
+texdata                193/2048         6176/65536    ( 9.4%) 
+dispinfos               21/0            3696/0        ( 0.0%) 
+disp_verts            5237/0          104740/0        ( 0.0%) 
+disp_tris             9216/0           18432/0        ( 0.0%) 
+disp_lmsamples      764207/0          764207/0        ( 0.0%) 
+faces                13984/65536      783104/3670016  (21.3%) 
+hdr faces            13984/65536      783104/3670016  (21.3%) 
+origfaces             7671/65536      429576/3670016  (11.7%) 
+leaves                6658/65536      213056/2097152  (10.2%) 
+leaffaces            15374/65536       30748/131072   (23.5%) 
+leafbrushes           8257/65536       16514/131072   (12.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            99075/512000     396300/2048000  (19.4%) 
+edges                60856/256000     243424/1024000  (23.8%) 
+LDR worldlights        274/8192        24112/720896   ( 3.3%) 
+HDR worldlights        274/8192        24112/720896   ( 3.3%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1021/32768       10210/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         22716/65536       45432/131072   (34.7%) 
+cubemapsamples          34/1024          544/16384    ( 3.3%) 
+overlays                18/1024         6336/360448   ( 1.8%) 
+LDR lightdata         [variable]    17159604/0        ( 0.0%) 
+HDR lightdata         [variable]    17159604/0        ( 0.0%) 
+visdata               [variable]      377685/16777216 ( 2.3%) 
+entdata               [variable]      188052/393216   (47.8%) 
+LDR ambient table     6658/65536       26632/262144   (10.2%) 
+HDR ambient table     6658/65536       26632/262144   (10.2%) 
+LDR leaf ambient     31207/65536      873796/1835008  (47.6%) 
+HDR leaf ambient     31402/65536      879256/1835008  (47.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18740    ( 0.0%) 
+pakfile               [variable]       63655/0        ( 0.0%) 
+physics               [variable]     2121542/4194304  (50.6%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40477
+Writing c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\addons\gm_construct_redone\maps\gm_construct_redone.bsp
+1 minute, 25 seconds elapsed
